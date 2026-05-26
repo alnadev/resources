@@ -307,7 +307,7 @@
     "Latin": {
         "default": 0,
         "visible": [
-            "Youtube"
+            "Youtube", "Websites"
         ],
         "Youtube": [
             {
@@ -320,6 +320,13 @@
                 "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_m4mZ5V07LkaoEdFOWIhvMz_qSEXegAzGOYTrFGx3xbAA=s160-c-k-c0x00ffffff-no-rj",
                 "link": "https://www.youtube.com/playlist?list=PLMlRYqqqM5rrjeaJuVaC6MWN7e7fSXGJt"
             }
+        ],
+        "Websites": [
+            {
+                "label": "CLC",
+                "screenshot": "https://www.clc.cambridgescp.com/sites/default/files/clc_logo_white_text_and_border.svg",
+                "link": "https://web.archive.org/web/20160819194750/http://cscp.cambridge.org/4eNA/webbook/s01/s01.html"
+	    }
         ]
     },
     "General": {
