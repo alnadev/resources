@@ -145,7 +145,7 @@
             }
         ]
     },
-    "DevContent": {
+    "Dev": {
         "default": 0,
         "visible": [
             "Youtube"
