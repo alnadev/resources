@@ -23,18 +23,15 @@
 }
 
 .menuItem {
-    color: white;
-    background-color: transparent;
-    border: 2px solid white;
+    border: 2px solid rgba(255,255,255,255);
     border-radius: 100%;
-    aspect-ratio: 1;
     width: 27vmin;
 
     font-size: 3.9vmin;
 }
 
 .logo:hover {
-    border-color: transparent;
+    border-color: rgba(255, 255, 255, 0);
     scale: 1.4;
 }
 
