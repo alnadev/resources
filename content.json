@@ -66,7 +66,7 @@
         "link": "https://www.youtube.com/@MathVisualProofs"
       },
       {
-        "label": "Brainstorm - Maths and Science",
+        "label": "Brainstorm",
         "screenshot": "https://yt3.googleusercontent.com/_ONprQBTwOtjjY28DbulqATPAfuokoQY2j7LQ6MwpdJp3ifYg7Ijld8t7gxPrpNMK6xEtKdjyg=s160-c-k-c0x00ffffff-no-rj",
         "link": "https://www.youtube.com/@brainstormmath"
       },
@@ -300,7 +300,7 @@
     ],
     "Websites": [
       {
-        "label": "Dictionaries | Latinitium",
+        "label": "Latinitium Dictionaries",
         "screenshot": "https://latinitium.com/wp-content/uploads/2022/12/Legentibus-icon-app-purple.png",
         "link": "https://latinitium.com/latin-dictionaries/"
       },
@@ -326,6 +326,11 @@
         "label": "Kurzgesagt",
         "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_n1Ribd7LwdP_qKtqWL3ZDfIgv9M1d6g78VwpHGXVR2Ir4=s160-c-k-c0x00ffffff-no-rj",
         "link": "https://www.youtube.com/@kurzgesagt"
+      },
+      {
+        "label": "Tom Scott",
+        "screenshot": "https://yt3.googleusercontent.com/WxHs0Jf1Jp_4ZU84wxnRL0owNHkzaLUEiD-GIfgCrVjZ0JhgriPTdPfGrkf-U7zwIs5zQl9ccg=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@TomScottGo"
       },
       {
         "label": "Vsauce",
