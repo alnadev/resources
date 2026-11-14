@@ -300,6 +300,11 @@
     ],
     "Websites": [
       {
+        "label": "Dictionaries | Latinitium",
+        "screenshot": "https://latinitium.com/wp-content/uploads/2022/12/Legentibus-icon-app-purple.png",
+        "link": "https://latinitium.com/latin-dictionaries/"
+      },
+      {
         "label": "CLC",
         "screenshot": "https://www.clc.cambridgescp.com/sites/default/files/clc_logo_white_text_and_border.svg",
         "link": "https://web.archive.org/web/20160819194750/http://cscp.cambridge.org/4eNA/webbook/s01/s01.html"
