@@ -152,94 +152,9 @@
     ],
     "Youtube": [
       {
-        "label": "UFD Tech",
-        "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_molzmMcjo7X_BgjTLe6uO6xkNdEp1OcIRz5p2Yhu_peg=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@UFDTech"
-      },
-      {
-        "label": "bigboxSWE",
-        "screenshot": "https://yt3.googleusercontent.com/z1YVihkpWgDP7h8bCNZb5qJ0N3Eu26VZmwyjbdpaNmkGfgPW29JIMQdpaP2PEY3vjhARWmG2yA=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@bigboxSWE"
-      },
-      {
-        "label": "Inkbox",
-        "screenshot": "https://yt3.googleusercontent.com/_Yjh97HT8P2j3fPE8WSzMXEABdFM7JgBvxqcknWHNjP2pWKP4aOIsWND23O2s-34QHgpqtgkBg=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@InkboxSoftware"
-      },
-      {
-        "label": "Reducible",
-        "screenshot": "https://yt3.googleusercontent.com/4Y72xFDw395XHf878UgzsxXc1I-36cgpjgjWaZx7KRP5D3VsMk_bvFoenvYjDRhEGF9Eo2LdPg=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@Reducible"
-      },
-      {
-        "label": "Enderman",
-        "screenshot": "https://yt3.googleusercontent.com/dTi9lRGI6tlZsjxEr4ABh8yA5Vp8IMfaK3iiK3r82l3j0isfwnRAM_BsEIF5Ra7Mhyb0gqGc=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@Endermanch"
-      },
-      {
-        "label": "Cathode Ray Dude - CRD",
-        "screenshot": "https://yt3.googleusercontent.com/73q6wlfo5-5fsP8pMwQ2adONkm3OyQFGvS5FP0Buzhx7TfGE2pw8cOLNbD_-aeL_seobeyjwWzM=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@CathodeRayDude"
-      },
-      {
-        "label": "The Cherno",
-        "screenshot": "https://yt3.googleusercontent.com/EmbIHnpmF1J0LgyUbCMK7QmfDZZm7u_GQd5eVx4XG06wIvgbagCY6WYpf2fvSdPoL1LMLkw8Iw=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@TheCherno"
-      },
-      {
-        "label": "Coding2GO",
-        "screenshot": "https://yt3.googleusercontent.com/DDvCeQPtcL0K2b96Q8cP0x-d5RWX-tXCUDAxvQUvD0_m26Jt1gyHuXCfxN9Xo1EQVckPF1miNDg=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@coding2go"
-      },
-      {
-        "label": "Code to the Moon",
-        "screenshot": "https://yt3.googleusercontent.com/8pqcF_usJvcRZJjlJfcyGHHYAKi_LRMzs5X5lqu8JStLCdaRWOHG_alB2O2eYdSMAudW4-xfnKM=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@codetothemoon"
-      },
-      {
-        "label": "No Boilerplate",
-        "screenshot": "https://yt3.googleusercontent.com/PmKxwlKDcB9iLB_y5rVNJZ80pJjZR9HKjmQIer-H22XhO3uINjhmv9ouPedH1OBeDtrGtY9bNgw=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@NoBoilerplate"
-      },
-      {
-        "label": "Core Dumped",
-        "screenshot": "https://yt3.googleusercontent.com/jfFx60eD6-93bOmWb20Ia6ehdTyiObRpSIzyK1S981LD78uGh8-jbENVajIYOPQCTDMiFfWjzg=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@CoreDumpped"
-      },
-      {
-        "label": "CodeAesthetic",
-        "screenshot": "https://yt3.googleusercontent.com/fKq1-wK3gkERFz9MH5bEvF73k9NUORswE2wxQ6YkCWzY7yMyYvRleubgUt_a8B8tpIyh_KGX=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@CodeAesthetic"
-      },
-      {
-        "label": "Low Level",
-        "screenshot": "https://yt3.googleusercontent.com/npUuy7Y37eUqanNoISokGb5a5rk1wotnx0Yzs1kfdOzYgnlwYnV82izSKmaoYpObYewKOAacs8o=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@LowLevelTV"
-      },
-      {
-        "label": "ByteSeb",
-        "screenshot": "https://yt3.googleusercontent.com/EAN1JzaZAtA3NH-DmwnYSpF2_kJvlLhJXF8nGuqBmfHP-mvB3E-Y81Syqc4Of9hV-0sH_G1r69o=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@byteseb"
-      },
-      {
-        "label": "MattKC",
-        "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_mnO5Ijt9ChIWI7cWkoC9SdBKmyX0bIt7SeHhrPTB5Y05M=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@MattKC"
-      },
-      {
         "label": "The Linux Experiment",
         "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_lAKf-vZLoTI-gZUoP5Y3gbdGd07E4eDHUhTee6aOzDCnU=s160-c-k-c0x00ffffff-no-rj",
         "link": "https://www.youtube.com/@TheLinuxEXP"
-      },
-      {
-        "label": "Datastream",
-        "screenshot": "https://yt3.googleusercontent.com/No5kD9Qi2G4Ew5XeTagjyJXE-E_pEHSeEGOGFJrraluMY8OufQ6wvy8n_7lL7Ne1lG_fbmw8v8k=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@datastream_yt"
-      },
-      {
-        "label": "Tsoding Daily",
-        "screenshot": "https://yt3.googleusercontent.com/sVrBLZ9iy76XIN5eSdlLqLVQsy60VaQ_YD_Vvu1tTyRIw5Yk9OZK2ZoKhiZh4svRMzm6OZ_M=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@TsodingDaily"
       },
       {
         "label": "Tantan",
@@ -247,9 +162,9 @@
         "link": "https://www.youtube.com/@Tantandev"
       },
       {
-        "label": "javidx9",
-        "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_mXW1yC6LVyFCVmGqzLgVWBWseXWvNLI3FbsoHonYggXw=s160-c-k-c0x00ffffff-no-rj",
-        "link": "https://www.youtube.com/@javidx9"
+        "label": "Reducible",
+        "screenshot": "https://yt3.googleusercontent.com/4Y72xFDw395XHf878UgzsxXc1I-36cgpjgjWaZx7KRP5D3VsMk_bvFoenvYjDRhEGF9Eo2LdPg=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@Reducible"
       },
       {
         "label": "Goodgis",
@@ -257,9 +172,79 @@
         "link": "https://www.youtube.com/@Goodgis"
       },
       {
+        "label": "No Boilerplate",
+        "screenshot": "https://yt3.googleusercontent.com/PmKxwlKDcB9iLB_y5rVNJZ80pJjZR9HKjmQIer-H22XhO3uINjhmv9ouPedH1OBeDtrGtY9bNgw=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@NoBoilerplate"
+      },
+      {
+        "label": "Inkbox",
+        "screenshot": "https://yt3.googleusercontent.com/_Yjh97HT8P2j3fPE8WSzMXEABdFM7JgBvxqcknWHNjP2pWKP4aOIsWND23O2s-34QHgpqtgkBg=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@InkboxSoftware"
+      },
+      {
+        "label": "Enderman",
+        "screenshot": "https://yt3.googleusercontent.com/dTi9lRGI6tlZsjxEr4ABh8yA5Vp8IMfaK3iiK3r82l3j0isfwnRAM_BsEIF5Ra7Mhyb0gqGc=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@Endermanch"
+      },
+      {
+        "label": "Core Dumped",
+        "screenshot": "https://yt3.googleusercontent.com/jfFx60eD6-93bOmWb20Ia6ehdTyiObRpSIzyK1S981LD78uGh8-jbENVajIYOPQCTDMiFfWjzg=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@CoreDumpped"
+      },
+      {
+        "label": "Coding2GO",
+        "screenshot": "https://yt3.googleusercontent.com/DDvCeQPtcL0K2b96Q8cP0x-d5RWX-tXCUDAxvQUvD0_m26Jt1gyHuXCfxN9Xo1EQVckPF1miNDg=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@coding2go"
+      },
+      {
+        "label": "CodeAesthetic",
+        "screenshot": "https://yt3.googleusercontent.com/fKq1-wK3gkERFz9MH5bEvF73k9NUORswE2wxQ6YkCWzY7yMyYvRleubgUt_a8B8tpIyh_KGX=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@CodeAesthetic"
+      },
+      {
+        "label": "Code to the Moon",
+        "screenshot": "https://yt3.googleusercontent.com/8pqcF_usJvcRZJjlJfcyGHHYAKi_LRMzs5X5lqu8JStLCdaRWOHG_alB2O2eYdSMAudW4-xfnKM=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@codetothemoon"
+      },
+      {
+        "label": "Cathode Ray Dude - CRD",
+        "screenshot": "https://yt3.googleusercontent.com/73q6wlfo5-5fsP8pMwQ2adONkm3OyQFGvS5FP0Buzhx7TfGE2pw8cOLNbD_-aeL_seobeyjwWzM=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@CathodeRayDude"
+      },
+      {
+        "label": "bigboxSWE",
+        "screenshot": "https://yt3.googleusercontent.com/z1YVihkpWgDP7h8bCNZb5qJ0N3Eu26VZmwyjbdpaNmkGfgPW29JIMQdpaP2PEY3vjhARWmG2yA=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@bigboxSWE"
+      },
+      {
+        "label": "ByteSeb",
+        "screenshot": "https://yt3.googleusercontent.com/EAN1JzaZAtA3NH-DmwnYSpF2_kJvlLhJXF8nGuqBmfHP-mvB3E-Y81Syqc4Of9hV-0sH_G1r69o=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@byteseb"
+      },
+      {
+        "label": "Datastream",
+        "screenshot": "https://yt3.googleusercontent.com/No5kD9Qi2G4Ew5XeTagjyJXE-E_pEHSeEGOGFJrraluMY8OufQ6wvy8n_7lL7Ne1lG_fbmw8v8k=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@datastream_yt"
+      },
+      {
+        "label": "MattKC",
+        "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_mnO5Ijt9ChIWI7cWkoC9SdBKmyX0bIt7SeHhrPTB5Y05M=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@MattKC"
+      },
+      {
+        "label": "javidx9",
+        "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_mXW1yC6LVyFCVmGqzLgVWBWseXWvNLI3FbsoHonYggXw=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@javidx9"
+      },
+      {
         "label": "Alex Ziskind",
         "screenshot": "https://yt3.googleusercontent.com/zm4iOyMJvuuW5Yl52kNTkAq9BcKzuPYP0iqWpNRose4jx4KsXvKrGlRwz6PeSod06luOskFo=s160-c-k-c0x00ffffff-no-rj",
         "link": "https://www.youtube.com/@AZisk"
+      },
+      {
+        "label": "Tsoding Daily",
+        "screenshot": "https://yt3.googleusercontent.com/sVrBLZ9iy76XIN5eSdlLqLVQsy60VaQ_YD_Vvu1tTyRIw5Yk9OZK2ZoKhiZh4svRMzm6OZ_M=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@TsodingDaily"
       }
     ]
   },
